@@ -1,0 +1,6 @@
+{
+  "name": "Gm",
+  "description": "تطبيق Gm المتكامل للياقة وبناء الأجسام مع نظام تتبع المشي والجري بنظام GPS وتحديد الحد اليومي (Limit)، واجهة HUD لعداد الخطوات ولترات الماء، وصفات منزلية صحية، وتصنيف منظم للتمارين وتخزين محلي مع مزامنة سحابية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
